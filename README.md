@@ -13,17 +13,17 @@ Where Does My Money Go? 鎌倉版は、鎌倉市民が鎌倉市に納めてい�
 
 Core Team: (@は Twitter Account)
 
-伊藤　大貴(Hirotaka Itou), @hirochan (Adviser)
-川島　宏一(Hiroichi Kawashima), @hiroichi_k (Coordinator)
-佐藤　宏之(Hiroyuki Sato), @sa2hi (Linked Open Data化)
-関　治之(Hal Seki:@hal_sk), Hack For Japan (Developer)
-高木　祐介(Takagi Yuusuke:@nyatakasan), (Developer)
-高野　光弘(TAKANO Mitsuhiro), @takano32 (Developer)
-竹内　久知(Takeuchi Hisatomo:@3Dfalcon), 機能型3Dアルバム (Designer)
-田島　逸郎(Itsuro Tajima), @niryuu (Developer)
-玉木　光(Tamaki Hikaru), Pearlpuppy.com (Designer)
-西林　孝(Takashi Nishibayashi), @hagino3000 (Developer)
-藤村　良弘(Fujimura Yoshihiro), Facebook:Fujimura Yoshihiro (Policy Analyst)
+* 伊藤　大貴(Hirotaka Itou), @hirochan (Adviser)
+* 川島　宏一(Hiroichi Kawashima), @hiroichi_k (Coordinator)
+* 佐藤　宏之(Hiroyuki Sato), @sa2hi (Linked Open Data化)
+* 関　治之(Hal Seki:@hal_sk), Hack For Japan (Developer)
+* 高木　祐介(Takagi Yuusuke:@nyatakasan), (Developer)
+* 高野　光弘(TAKANO Mitsuhiro), @takano32 (Developer)
+* 竹内　久知(Takeuchi Hisatomo:@3Dfalcon), 機能型3Dアルバム (Designer)
+* 田島　逸郎(Itsuro Tajima), @niryuu (Developer)
+* 玉木　光(Tamaki Hikaru), Pearlpuppy.com (Designer)
+* 西林　孝(Takashi Nishibayashi), @hagino3000 (Developer)
+* 藤村　良弘(Fujimura Yoshihiro), Facebook:Fujimura Yoshihiro (Policy Analyst)
 
 Team For Kamakura:
-森田　想平(Sohei Morita), @oksouhei
+* 森田　想平(Sohei Morita), @oksouhei
